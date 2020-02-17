@@ -1,0 +1,36 @@
+img {
+    max-width: 200px;
+    max-height: 300px;
+    width: auto;
+    height: auto;
+    
+}
+body {
+    background: url(robo.jpg) center;
+    color: white;
+    max-width: 800px;
+    width: 95%;
+    margin: auto;
+}
+main {
+    font-family: sans-serif;
+    line-height: 1.5;
+    background: #00000054;
+    padding: 5px 40px;
+    margin-top: 20px;
+    border-radius: 10px;
+    
+}
+
+.logo, .band-name, .headline {
+    margin: 0;
+    text-align: center;
+}
+.concerts {
+    border-radius: 10px;
+    padding: 10px;
+    margin: 0;
+  }
+  a {
+      color: blue;
+  }
